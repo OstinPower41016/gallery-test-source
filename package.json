@@ -32,7 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://myusername.github.io",
+  "homepage": "https://ostinpower41016.github.io/test-gallery/",
   "eslintConfig": {
     "extends": [
       "react-app",
