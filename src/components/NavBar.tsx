@@ -15,7 +15,7 @@ const NavBar: React.FunctionComponent<INavBarProps> = (props) => {
             Simple Beatiful Gallery
           </Link>
           <div className="nvabar__photos">
-            <Link to="/photos">Go to foto gallery</Link>
+            <Link to="/gallery">Перейти в галерею</Link>
           </div>
         </nav>
       </Container>
